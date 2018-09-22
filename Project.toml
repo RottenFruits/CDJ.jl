@@ -1,0 +1,6 @@
+authors = ["RottenFruits <s_ogawa@akarf.com>"]
+name = "CDJ"
+uuid = "2b25c7cc-be3b-11e8-10db-1b74d3fc4153"
+version = "0.1.0"
+
+[deps]
